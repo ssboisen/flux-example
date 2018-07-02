@@ -1,0 +1,1 @@
+{"jobID":"f8d81c3c-3bde-85c0-61c4-c152d6c46b54","spec":{"type":"policy","cause":{"Message":"","User":"simon \u003csimon@skov-boisen.dk\u003e"},"spec":{"default:deployment/helloworld":{"add":{"automated":"true"},"remove":null}}},"result":null}
